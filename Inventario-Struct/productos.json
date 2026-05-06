@@ -1,0 +1,14 @@
+{
+  "JDH83": {
+    "codigo": "JDH83",
+    "nombre": "VASOS",
+    "precio": 1000,
+    "cantidad": 20
+  },
+  "JH763": {
+    "codigo": "JH763",
+    "nombre": "termo",
+    "precio": 12000,
+    "cantidad": 5
+  }
+}
